@@ -1,0 +1,9 @@
+/* Circular Image Style */
+.img-circle {
+  border-radius: 50%;
+  object-fit: cover;
+  width: 250px; /* Adjust size as needed */
+  height: 250px; /* Adjust size as needed */
+  border: 4px solid #333; /* Optional: Adds a border around the image */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adds shadow for depth */
+}
